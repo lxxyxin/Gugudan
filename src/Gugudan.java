@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Gugudan {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //2단
         //System.out.println(2*1);
         //System.out.println(2*2);
@@ -24,12 +24,19 @@ public class Gugudan {
         System.out.println(3*8);
         System.out.println(3*9);*/
 
-        //4단
+        //for 반복문
         System.out.println("구구단 중 출력할 단은? : ");
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        System.out.println("number : " + number);
 
-        int result = number * 1;
+        for (int i = 1; i < 10; i++) {
+            System.out.println(number * i);
+        }
+        //while 반복문
+        //int i = 1;
+        //while(i<10){
+            //System.out.println(number * i);
+        //}
     }
 }
+
