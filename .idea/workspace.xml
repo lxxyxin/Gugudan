@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32dc495e-edc9-4e58-b3e3-e19bd475dbf8" name="Changes" comment="if, else if, else">
+    <list default="true" id="32dc495e-edc9-4e58-b3e3-e19bd475dbf8" name="Changes" comment="array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Gugudan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gugudan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662470770332</updated>
       <workItem from="1662470772231" duration="2371000" />
-      <workItem from="1662621216533" duration="5230000" />
+      <workItem from="1662621216533" duration="6440000" />
     </task>
     <task id="LOCAL-00001" summary="gugudan">
       <created>1662623534236</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662625590401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="array">
+      <created>1662626739818</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662626739818</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +122,7 @@
     <MESSAGE value="gugudan" />
     <MESSAGE value="for, while loop" />
     <MESSAGE value="if, else if, else" />
-    <option name="LAST_COMMIT_MESSAGE" value="if, else if, else" />
+    <MESSAGE value="array" />
+    <option name="LAST_COMMIT_MESSAGE" value="array" />
   </component>
 </project>
