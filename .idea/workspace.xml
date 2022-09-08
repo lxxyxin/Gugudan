@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32dc495e-edc9-4e58-b3e3-e19bd475dbf8" name="Changes" comment="gugudan">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32dc495e-edc9-4e58-b3e3-e19bd475dbf8" name="Changes" comment="for, while loop">
       <change beforePath="$PROJECT_DIR$/src/Gugudan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gugudan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662470770332</updated>
       <workItem from="1662470772231" duration="2371000" />
-      <workItem from="1662621216533" duration="3566000" />
+      <workItem from="1662621216533" duration="3922000" />
     </task>
     <task id="LOCAL-00001" summary="gugudan">
       <created>1662623534236</created>
@@ -75,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662623795389</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="for, while loop">
+      <created>1662625058806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662625058806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="gugudan" />
-    <option name="LAST_COMMIT_MESSAGE" value="gugudan" />
+    <MESSAGE value="for, while loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="for, while loop" />
   </component>
 </project>
